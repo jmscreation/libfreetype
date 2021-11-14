@@ -1,0 +1,2 @@
+# libfreetype
+ Freetype binaries
